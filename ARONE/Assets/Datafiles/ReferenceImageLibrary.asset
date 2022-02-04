@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5315322714719329850
+  m_GuidHigh: 4603578077223580093
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5143392520684760414
+      m_GuidHigh: 18444531518536610446
+    m_SerializedTextureGuid:
+      m_GuidLow: 15074894210065499544
+      m_GuidHigh: 10546618891406872011
+    m_Size: {x: 0.5, y: 0.3234375}
+    m_SpecifySize: 1
+    m_Name: ARONETARGET
+    m_Texture: {fileID: 2800000, guid: f18c0598c869d134cb0dbbdb001e5d92, type: 3}
